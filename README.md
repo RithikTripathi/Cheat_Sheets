@@ -3,7 +3,7 @@
 
 
 ### Programming Cheatsheet ? Why ? 
-![image](https://github.com/user-attachments/assets/47570f16-f83d-4a51-8a2c-d5a84f1e2b64)
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4YnY2ZHpyazZoMHFpYjdya3dmZmhmOTN1MzJmZ3c1d210dnY3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IqFH0yMll9wl2/giphy.webp)
 
 
 - "A programming cheatsheet is like coffee—can’t start coding without it."
