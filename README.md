@@ -1,3 +1,7 @@
+### Why overthink when we can visualise !!!
+- ["A programming cheatsheet is like coffee—can’t start coding without it."](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - offers visualizations for all major operations on data structures and algorithms. See things happening!
+
+
 ### Programming Cheatsheet ? Why ? 
 
 - "A programming cheatsheet is like coffee—can’t start coding without it."
