@@ -1,10 +1,10 @@
 ### Why overthink when we can visualize !!!
 - ["Visualize Algorithms"](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - offers visualizations for all major operations on data structures and algorithms. See things happening!
 
-- ["C Programming Cheatsheet"]([https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://quickref.me/c.html#google_vignette))
-- ["C Programming Cheatsheet - another one "]([[https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://quickref.me/c.html#google_vignette](https://www.codecademy.com/resources/cheatsheets/language/c)))
+- ["C Programming Cheatsheet"](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://quickref.me/c.html#google_vignette)
+- ["C Programming Cheatsheet - another one "](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://quickref.me/c.html#google_vignette](https://www.codecademy.com/resources/cheatsheets/language/c)
 
-
+- ["Algorithms Cheatsheet"](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://algs4.cs.princeton.edu/cheatsheet/) 
 
 
 ### Programming Cheatsheet ? Why ? 
